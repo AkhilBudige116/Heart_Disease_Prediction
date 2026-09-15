@@ -1,0 +1,14 @@
+# Local secrets
+.env
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local environments and tooling
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
